@@ -1,0 +1,26 @@
+body{
+    margin: auto;
+    /* background: greenyellow; */
+    width: 80%;
+}
+section #left{
+    float: left;
+    width: 30%;
+    background: whitesmoke;
+}
+section #right{
+    float: right;
+    width: 70%;
+    /* background: wheat */
+    /* text-align:center; */
+}
+section #seach{
+    width: 70%;
+    height: 30px;
+}
+section #right p{
+    margin-left: 10px;
+}
+section #right img {
+    width: 100%;
+}
