@@ -1,0 +1,212 @@
+.cart__wrapper .cart .policy__cart {
+    background-color: #fff;
+    padding: 16px;
+  }
+  .cart__wrapper .cart .policy__cart-item {
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #f2f2f2;
+    font-size: 1.6rem;
+  }
+  .cart__wrapper .cart .policy__cart-item img {
+    width: 3rem;
+    height: 3rem;
+    margin-right: 8px;
+  }
+  #policy {
+    background-color: #fff;
+    padding: 2rem;
+  }
+  
+  .policy .policy__bar .policy-search {
+    height: 4rem;
+    width: 26rem;
+    border: 1px solid #c2c2c2;
+  }
+  .policy .policy__bar .policy-search i {
+    font-size: 1.4rem;
+    margin-left: 1rem;
+  }
+  .policy .policy__bar .policy-search input {
+    width: 24rem;
+    padding: 0.8rem;
+    font-size: 1.4rem;
+    width: 80%;
+  }
+  .policy .policy__bar-top {
+    width: 32rem;
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ccc;
+  }
+  .policy .policy__bar-top .policy-item {
+    padding: 1rem;
+    transition: 0.4s;
+    margin-bottom: 1px;
+  }
+  .policy .policy__bar-top .policy-item a {
+    font-size: 1.4rem;
+    color: #333;
+    font-weight: 600;
+    transition: 0.4s;
+  }
+  .policy .policy__bar-top .policy-item a i {
+    margin-right: 8px;
+  }
+  .policy .policy__bar-top .policy-item:hover {
+    background-color: #f2f2f2;
+  }
+  .policy .policy__bar-top .policy-item:hover > a {
+    color: #ff6128;
+  }
+  .policy .policy__bar-top .policy-item .arrow {
+    cursor: pointer;
+    float: right;
+    transition: 0.4s;
+  }
+  .policy .policy__bar-top .policy-item .arrow:hover {
+    color: #ff6128;
+  }
+  .policy .policy__bar-top .sub-item {
+    margin: 1rem 4rem;
+  }
+  .policy .policy__bar-top .sub-item:hover a {
+    color: #ff6128;
+  }
+  .policy .policy__bar-top .sub-item a {
+    color: #666;
+    font-weight: 400;
+  }
+  .policy .policy__bar-bot {
+    margin-top: 2rem;
+    width: 32rem;
+  }
+  .policy .policy__bar-bot p {
+    padding: 1rem;
+  }
+  .policy .policy__bar-bot p a {
+    font-size: 1.4rem;
+    color: #666;
+    font-weight: 400;
+    transition: 0.4s;
+  }
+  .policy .policy__bar-bot p a i {
+    margin-right: 8px;
+  }
+  .policy .policy__bar-bot p:hover {
+    background-color: #f2f2f2;
+  }
+  .policy .policy__bar-bot p:hover a {
+    color: #ff6128;
+  }
+  .policy .policy-content h2 {
+    font-size: 2.4rem;
+    margin-bottom: 2rem;
+  }
+  .policy .policy-content h3 {
+    color: #666;
+    margin: 2rem 0 1rem 0;
+  }
+  .policy .policy-content p {
+    font-size: 1.5rem;
+  }
+  .policy .policy-content li {
+    list-style-type: circle;
+    font-size: 1.5rem;
+    margin-left: 2rem;
+  }
+  
+  .policy-item.policy-active {
+    color: #ff6128;
+    background-color: #f2f2f2;
+  }
+  
+  .policy-active {
+    color: #ff6128 !important;
+  }
+  
+  .policy-item a.policy-active-link {
+    color: #ff6128 !important;
+  }
+  
+  .policy-item .sub-item a.policy-active-sub-link {
+    color: #333 !important;
+    font-weight: 700;
+  }
+  .list{
+    display: flex;
+  }
+  .row {
+    display: flex;
+  
+  }
+  
+  
+  .row .col-8{
+   margin-left: 30px;
+  }
+  .row .nav-list .col8 p{
+    margin-left: 15px;
+  }
+  .list{
+    display: flex;
+  }
+  .row {
+    display: flex;
+  
+  }
+  
+  
+  .row .col-8{
+   margin-left: 30px;
+  }
+  .row .nav-list .col8 p{
+    margin-left: 15px;
+  }
+  #support {
+    background-color: #fff;
+    padding: 2rem;
+  }
+  
+  .support .support-title {
+    font-size: 2.8rem;
+    color: #3a2a2f;
+    padding: 30px 0 28px;
+    border-bottom: 1px solid #e6e6e6;
+  }
+  .support .support__contact button {
+    margin-right: 1rem;
+  }
+  .support .support__contact .btn-support {
+    display: inline-block;
+    width: 58rem;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    margin-right: 1rem;
+  }
+  .support .support__contact .btn-support i {
+    margin-right: 4px;
+  }
+  .support .support__query p {
+    font-size: 2.4rem;
+    color: #3a2a2f;
+    margin-top: 3rem;
+  }
+  .support .support__query .query-list .query-item {
+    list-style-type: disc;
+    margin-bottom: 2rem;
+    margin-left: 2rem;
+  }
+  .support .support__query .query-list .query-item a {
+    font-size: 1.5rem;
+    color: #3a2a2f;
+    transition: 0.4s;
+  }
+  .support .support__query .query-list .query-item:hover a {
+    color: #ff6128;
+  }
+  

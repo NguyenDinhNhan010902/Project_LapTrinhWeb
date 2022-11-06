@@ -1,0 +1,108 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "Poppins", sans-serif;
+  scroll-behavior: smooth;
+}
+
+section {
+  padding: 2rem 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+}
+
+input,
+button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+h2,
+h3 {
+  color: #3a2a2f;
+}
+
+h4,
+h5,
+small,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+  margin: 0;
+}
+
+.text-organe {
+  font-size: 5.5rem;
+  color: #fd601a;
+  font-weight: 700;
+}
+
+.text-price {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #c00;
+}
+
+.text-pricesale {
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: #999999;
+  text-decoration: line-through;
+}
+
+.border-title {
+  display: inline-block;
+  background-color: #fd601a;
+  width: 4px;
+  height: 3rem;
+}
+
+.text-title {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #3a2a2f;
+  display: inline-block;
+}
+
+.or {
+  font-size: 1.5rem;
+}
+
+.breadcrumb-bar {
+  font-size: 1.4rem;
+}
+
+.breadcrumb-active {
+  font-weight: 600;
+}
+
+.button {
+  background-color: #4080ff;
+  border-radius: 4px;
+  color: white;
+  font-size: 1.5rem;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1230px;
+    padding: 0;
+  }
+}
