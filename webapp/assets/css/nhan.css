@@ -209,4 +209,135 @@
   .support .support__query .query-list .query-item:hover a {
     color: #ff6128;
   }
+  .contact{
+    display: flex;
+    margin-left: 0px;
+    margin-top: 20px;
+  }
+  .contact-item{
+    /* padding: 0px 100px; */
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    /* padding: 50px; */
+    border: 1px solid #3a2a2f;
+    border-radius: 5px;
+    
+  }
+  em{
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    font-style: normal;
+    border-radius: 50%;
+    background: #333;
+    font-size: 14px;
+    color: #fff;
+  }
+  .address p{
+    margin-left:30px ;
+  }
+  .contact-item i{
+    margin-left: 75px;
+    font-size: 40px;
+    
+  }
+  .rinco p{
+    text-align: center;
+    
+  }
+  .rinfo p{
+    margin-top: 50px;
+    text-align: center;
+    /* margin-bottom: 10px; */
+
+  }
+  .contact-item .btn {
+    margin-left: 25px;
+    margin-top: 30px;
+    position: relative;
+    background: none;
+    transition: color 0.4s linear;
+    
+    /* text-transform: uppercase; */
+
+  }
+  .contact-item .btn a{
+    /* text-align: center; */
+    padding: 5px 25px;
+    border:  1px solid black;
+    color:#ff6128;
+    justify-content: center;
+    border-radius: 4px;
+  }
+  .img {
+    background: url(/assets/img/nhom.png);
+    height: 80vh;
+    text-align: center;
+    width: 100%;
+
+  }
+  .img h3{
+    width: 180px;
+    display: inline-block;
+    margin-top: 30px;
+    background-color: #f3df5a;
+    border-radius: 20px;
+  }
+  .img .text1{
+    width: 50%;
+    margin: auto;
+    background-color: rgba(255,255,255,0.8);;
+    border-radius: 5px;
+    margin-top: 80px;
+
+  }
+  .img .text p{
+    font-size: 50px;
+  }
+  .about-page1{
+   text-align: center;
+  }
+  
+  .about-page1 h3{
+    font-size: 30px;
+    margin-top: 50px;
+  }
+  .about-page1 h5{
+    font-size: 15px;
+  }
+  .about-page-mt{
+    padding-top: 50px;
+    margin: auto;
+    width: 80%;
+    display: flex;
+  }
+  .about-mt{
+    margin-top: 50px;
+    /* width: 100px; */
+  }
+  .about-page-mt .about-day{
+    margin: auto;
+    
+  }
+  .about-page-mt .about-day h2{
+    font-size: 70px;
+    color: orange;
+    
+  }
+  .about-page-mt .about-day a{
+    text-decoration: none;
+    color: orange;
+    margin-top: 30px;
+  }
+  .about-page1 img{
+    margin-top:50px ;
+  }
+  
+  
+  
+
   
